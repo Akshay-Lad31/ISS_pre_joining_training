@@ -1,6 +1,6 @@
 # ISS Governance Pre-Joining Assignment
 
-This assignment was done by Akshay Harshad Lad.
+This assignment was done by **Akshay Harshad Lad**.
 
 ## Description
 
