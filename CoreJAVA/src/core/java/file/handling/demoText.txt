@@ -1,0 +1,5 @@
+
+Hello reader, this is a test. writing to file
+Closing the file now.
+Hello reader, this is a test. writing to file
+Closing the file now.
